@@ -1,0 +1,7 @@
+{
+
+  "UserManagementService": "https://localhost:7199/",
+  "PostManagementService": "https://localhost:7094/",
+  "CommentManagementService": "https://localhost:7133/"
+
+}

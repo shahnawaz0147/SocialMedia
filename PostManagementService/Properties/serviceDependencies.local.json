@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "secretStore": null,
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/socialmediadbserver/databases/socialmedia",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:PostManagementServiceContext"
+    }
+  }
+}

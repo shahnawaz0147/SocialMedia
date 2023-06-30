@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "457+cQG6465tiz4QeU1a56P2ngFuLXSTiBFrGHEFxQhZSG5X1HwJpALBoxBGC/zNYNxVzafhc7OHxqyk7JJqeA==",
+  "success": true,
+  "projectFilePath": "C:\\SocialMediaRepository\\Contracts\\Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+
+
+  "ClientID": "58d02b70-f823-4772-9d46-f6bd29a431ef",
+  "InstanceId": "https://login.microsoftonline.com/{0}",
+  "TenantId": "fbae781f-917b-4d8a-9521-ab33cb4b5ab3",
+  "ClientSecret": "7LE8Q~9QGg-vMaLL-4h0mKJuFXSeG8p1OmxEzbwa",
+  "BaseAddress": "https://localhost:7094/",
+  "ResourceId": "api://3f5d82da-9fcc-40a2-a935-30bddfe947ce/.default"
+
+
+}

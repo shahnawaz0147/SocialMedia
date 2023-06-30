@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lik5BM8X+mIbhTGg4hTXxMUqWHqxIbd8m8fbBIHGops=",
+  "Source": "PostManagementService",
+  "BasePath": "_content/PostManagementService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

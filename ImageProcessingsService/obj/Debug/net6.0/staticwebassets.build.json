@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZF6KIvlMWv32FSg2iCvnI7wwA7L4DZZsqlvq4YzmIVI=",
+  "Source": "ImageProcessingsService",
+  "BasePath": "_content/ImageProcessingsService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
